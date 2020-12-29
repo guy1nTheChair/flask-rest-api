@@ -37,5 +37,6 @@
    pytest tests.py
     ```
 10. To deactivate virtualenv: 
-   ```deactivate
+   ```
+   deactivate
    ```
